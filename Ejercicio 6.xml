@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!DOCTYPE listaCursos SYSTEM "Ejercicio 6.dtd">
+<!-- <!DOCTYPE listaCursos SYSTEM "Ejercicio 6.dtd"> -->
 
-<listaCursos>
+<listaCursos xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Ejercicio 6.xsd">
 
     <curso>
         <alumno>
